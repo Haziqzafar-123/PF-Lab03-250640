@@ -44,7 +44,7 @@ printf("You are %d years old and %,2f meters tall.\n", age,
 height);
 return 0;
 }
-...
+```
 
  - [ ] task 1
  - [X] task 2

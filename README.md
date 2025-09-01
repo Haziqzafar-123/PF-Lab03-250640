@@ -24,7 +24,7 @@ _this is project_\
 H<sub>2</sub>0\
 x <sup>2</sub>
 >This is code
-'''{
+```{
 #include <stdio.h>
 08
 09

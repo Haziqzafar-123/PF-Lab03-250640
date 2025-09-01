@@ -10,19 +10,19 @@ _this is project_\
 [google] (https://www.google.com/)\
 
 [image](https://unsplash.com/s/photos/image)
-#list
+# list
 1. Haziq
 2. Zafar
  1. Student
  2. Of
  3. Fast
--google
--insta
--facebook
--image
+- google
+- insta
+- facebook
+- image
 
 H<sub>2</sub>0\
->< <sup>2</sub>
+x <sup>2</sub>
 >This is code
 '''{
 #include <stdio.h>
